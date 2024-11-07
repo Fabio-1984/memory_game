@@ -1,9 +1,6 @@
 # memory_game
-#Jogo da memória com emojis.
 
-
-### Título do Projeto
-**Jogo da Memória**
+##Jogo da Memória
 
 ### Descrição
 Um jogo da memória interativo desenvolvido utilizando HTML, CSS e JavaScript. O objetivo do jogo é testar e melhorar a memória dos jogadores, desafiando-os a encontrar pares de cartas idênticas em um tabuleiro.
