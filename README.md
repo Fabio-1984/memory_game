@@ -31,3 +31,8 @@ Para executar o jogo localmente:
    cd jogo-da-memoria
    ```
 3. Abra o arquivo `index.html` em um navegador.
+
+4. Interface do projeto:
+
+![image](https://github.com/user-attachments/assets/9f275cba-5e50-442f-8d16-3410f5d5c976)
+
